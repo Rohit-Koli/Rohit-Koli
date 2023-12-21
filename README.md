@@ -4,7 +4,7 @@ Hi 👋 My name is Rohit Koli
 Student
 -------
 
-I am Currently Learning BCA (Bachelor's Of Computer Applications). I am From Shirpur ,Maharashtra. And i want to become a Software Developer
+I am Currently Learning MCA (Masster Of Computer Applications). I am From Shirpur ,Maharashtra. And i want to become a Software Developer
 
 * 🌍  I'm based in Shirpur, Maharashtra (425427) India
 * 🖥️  See my portfolio at [Rohit Koli](http://rohitKoli.com//Demo)
